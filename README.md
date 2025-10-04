@@ -1,6 +1,6 @@
 # VWA-XRP
 
-![Logo](assets/logo.jpg)
+<img src="assets/logo.jpg" alt="Logo" width="100"/>
 
 **Bridging Real World Assets with On-Chain Liquidity on XRPL**
 
