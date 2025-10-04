@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <rect x="10" y="10" width="100" height="50" fill="#2196F3"/>
+  <text x="60" y="40" font-size="12" fill="white" text-anchor="middle">Frontend</text>
+
+  <rect x="120" y="10" width="100" height="50" fill="#4CAF50"/>
+  <text x="170" y="40" font-size="12" fill="white" text-anchor="middle">Backend</text>
+
+  <rect x="230" y="10" width="100" height="50" fill="#FFC107"/>
+  <text x="280" y="40" font-size="12" fill="black" text-anchor="middle">Contracts</text>
+
+  <line x1="110" y1="35" x2="120" y2="35" stroke="black"/>
+  <line x1="220" y1="35" x2="230" y2="35" stroke="black"/>
+</svg>
