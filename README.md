@@ -316,12 +316,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Website**: [https://vwa.to](https://vwa.to)
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/vwa-org/vwa-xrpl/issues)
-- **Discord**: [Join our Community](https://discord.gg/vwa)
-- **Twitter**: [@VWA_Token](https://twitter.com/VWA_Token)
-- **Telegram**: [@VWA_Official](https://t.me/VWA_Official)
-- **Email**: support@vwa.to
+- **Twitter**: [@vanguardrwa](https://x.com/vanguardrwa)
 
 ---
 
